@@ -3,7 +3,7 @@ SQL scripts and resources for the "How to Create a Database" YouTube tutorial. P
 
 # How to Create a Database - YouTube Tutorial
 This repository contains the SQL scripts used in my YouTube Short tutorial: 
-#### 1. How to Create a Database.
+#### 1. How to Create a Database:
 #### 2. How to Create a Table.
 
 ## 🚀 How to Use
