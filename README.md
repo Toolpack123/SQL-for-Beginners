@@ -2,18 +2,9 @@
 SQL scripts and resources for the "How to Create a Database" YouTube tutorial. Perfect for Data Science beginners.
 
 # How to Create a Database - YouTube Tutorial
-This repository contains the SQL scripts used in my YouTube Short tutorial: **"How to Create a Database."**
-
-## 📂 Contents
-* `create_database.sql`: The full script to create and initialize a database.
-
-##  -- 1. Create A Database 
-### Syntax: create database databasename
-create database school;
-
-## 2. How to use this database
-### Syntax : use databasename
-use school;
+This repository contains the SQL scripts used in my YouTube Short tutorial: 
+**"1. How to Create a Database."**
+**"1. How to Create a Table."**
 
 ## 🚀 How to Use
 1. Copy the code from the `.sql` file.
