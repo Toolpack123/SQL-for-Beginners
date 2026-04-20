@@ -7,6 +7,16 @@ This repository contains the SQL scripts used in my YouTube Short tutorial: **"H
 ## 📂 Contents
 * `create_database.sql`: The full script to create and initialize a database.
 
+* -- 1. Create A Database 
+# Syntax: create database <databasename>
+-- Code 
+create database school;
+
+-- 2. How to use this database
+# Syntax : use <databasename>
+-- Code
+use school;
+
 ## 🚀 How to Use
 1. Copy the code from the `.sql` file.
 2. Paste it into your MySQL Workbench 
