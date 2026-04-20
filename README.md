@@ -8,11 +8,11 @@ This repository contains the SQL scripts used in my YouTube Short tutorial: **"H
 * `create_database.sql`: The full script to create and initialize a database.
 
 ##  -- 1. Create A Database 
-### Syntax: create database <databasename>
+### Syntax: create database databasename
 create database school;
 
 ## 2. How to use this database
-### Syntax : use <databasename>
+### Syntax : use databasename
 use school;
 
 ## 🚀 How to Use
