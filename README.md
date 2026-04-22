@@ -8,7 +8,7 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 #### 1. How to Create a Database? https://youtube.com/shorts/DJ731z5ped0?feature=share
 #### 2. How to Create a Table? https://youtube.com/shorts/6GoIAB4ldD0?feature=share
 #### 3. How to insert records into a table? https://youtube.com/shorts/l8md0xItLVA?feature=share
-#### 4. How to apply the WHERE clause? https://youtube.com/shorts/UyLNgAfna5Q?feature=share
+#### 4. How to filter the record? https://youtube.com/shorts/UyLNgAfna5Q?feature=share
 
 ## 🚀 How to Use
 1. Copy the code from the `.sql` file.
