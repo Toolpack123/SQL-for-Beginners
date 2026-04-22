@@ -16,7 +16,7 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 3. Execute to create your first database!
 
 ## 👩‍🏫 About the Instructor
-I am **Jaya Pandey**, a Data Science Trainer with 13+ years of experience in Statistics, Python, and SQL. I help students and professionals master data tools with ease.
+I am a Data Science Trainer with 13+ years of experience in Excel, SQL, Python, EDA, Tableau, Power BI, Statistics, Machine Learning, and Gen AI. I help students and professionals master the data tools with ease. 
 
 ### 🔗 Stay Connected
 * **YouTube:** www.youtube.com/@toolspackpandey
