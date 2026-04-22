@@ -14,7 +14,7 @@ values
 # Display records
 select * from student;
 
-# Question for Practice
+# -----------------------------------Question for Practice-------------------------------------------
 -- 1. Create a database 'College'
 -- 2. Create two tables: a) Student and b) Teacher
 -- 3. Add column in Student table: S_id(int) , s_name(varchar1(100)), s_city(varchar(100)
