@@ -20,7 +20,6 @@ I am a Data Science Trainer with 13+ years of experience in Excel, SQL, Python, 
 
 ### 🔗 Stay Connected
 * **YouTube:** www.youtube.com/@toolspackpandey
-* **LinkedIn:** linkedin.com/in/jaya-pandey-77750830
 
 ---
 *If you found this helpful, please give this repository a ⭐!*
