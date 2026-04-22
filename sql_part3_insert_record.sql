@@ -9,7 +9,8 @@ insert into student
 (s_name,s_class,s_city,s_marks)
 values
 ('Raj',2,'Kanpur',80),
-('Ram',4,'luknow',100);
+('Ram',4,'luknow',100)
+('Tom',4,'Pune',100);
 
 # Display records
 select * from student;
