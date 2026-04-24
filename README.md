@@ -1,5 +1,5 @@
 # SQL-for-Beginners
-SQL scripts and resources for the "How to Create a Database" YouTube tutorial. Perfect for Data Science beginners.
+SQL scripts and resources for 'How to Do Data Analysis through MySQL' YouTube tutorial. Perfect for Data Science beginners.
 
 # How to install MySQL Workbench
 #### SQL setup kaise karein? Step-by-Step Guide | Check the Git Link! 
