@@ -19,11 +19,13 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/4_KVKqpLv7A?feature=share
 
 # How to use Git files
-1. Open the MySQL Workbench file 
-1. Copy the code from the `.sql` file.
-2. Paste it into your MySQL Workbench file
-3. Select and execute the code. 
-
+1. Open the MySQL Workbench platform.
+2. Click the '+SQL' tab (top of the menu bar) to add a new file.
+3. Copy the code from the `.sql` Git Repository file part-wise.
+4. Paste it into your MySQL Workbench new file 
+5. Select and execute the code. 
+6. Save the file(ctrl+S) and then rename it.
+   
 ## 👩‍🏫 About the Instructor
 I am a Data Science Trainer with 13+ years of experience in Excel, SQL, Python, EDA, Tableau, Power BI, Statistics, Machine Learning, and Gen AI. I help students and professionals master the data tools with ease. 
 
