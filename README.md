@@ -2,11 +2,11 @@
 SQL scripts and resources for the "How to Create a Database" YouTube tutorial. Perfect for Data Science beginners.
 
 # How to install MySQL Workbench
+#### SQL setup kaise karein? Step-by-Step Guide | Check the Git Link! 
+##### https://youtube.com/shorts/pw4BsQpBCUs?feature=share
 
 # YouTube Tutorial
 This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-for-Beginners": 
-#### SQL setup kaise karein? Step-by-Step Guide | Check the Git Link! 
-##### https://youtube.com/shorts/pw4BsQpBCUs?feature=share
 #### Part 1, SQL Zero से शुरू करें! 🚀 Database Creation⚡  
 ##### https://youtube.com/shorts/DJ731z5ped0?feature=share
 #### Part 2,अपना पहला SQL Table बनाना सीखें! 💻
@@ -18,9 +18,11 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 #### Part 5 , Specific column को Filter करना सीखें!
 ##### https://youtube.com/shorts/4_KVKqpLv7A?feature=share
 
+# How to use Git files
+1. Open the MySQL Workbench file 
 1. Copy the code from the `.sql` file.
-2. Paste it into your MySQL Workbench 
-3. Execute to create your first database!
+2. Paste it into your MySQL Workbench file
+3. Select and execute the code. 
 
 ## 👩‍🏫 About the Instructor
 I am a Data Science Trainer with 13+ years of experience in Excel, SQL, Python, EDA, Tableau, Power BI, Statistics, Machine Learning, and Gen AI. I help students and professionals master the data tools with ease. 
