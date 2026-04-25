@@ -17,6 +17,8 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/UyLNgAfna5Q?feature=share
 #### Part 5 , Specific column को Filter करना सीखें!
 ##### https://youtube.com/shorts/4_KVKqpLv7A?feature=share
+#### Part6, SQL Query filtering में गलती? AND Operator सीखो!
+##### https://youtube.com/shorts/pScDqIPBRO8?feature=share
 
 # How to use Git files
 1. Open the MySQL Workbench platform.
