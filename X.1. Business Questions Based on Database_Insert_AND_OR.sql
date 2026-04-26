@@ -1,6 +1,6 @@
 -- SQL Practice Assignment: E-Commerce Inventory Management
 /* Scenario: You are a Data Analyst for a growing retail store. You need to set up their inventory system and help the 
-manager filter specific products for a weekend sale.*/
+Manager filters specific products for a weekend sale.*/
 -- Phase 1: Database Setup (The Foundation)
 /*Task: Create a database named RetailStore and a table named Products with the following columns:
 ProductID (Integer)
