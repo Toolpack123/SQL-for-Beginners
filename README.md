@@ -19,7 +19,8 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/4_KVKqpLv7A?feature=share
 #### Part6, SQL Query filtering में गलती? AND Operator सीखो!
 ##### https://youtube.com/shorts/pScDqIPBRO8?feature=share
-
+#### Coding Interview Ka Sabse Easy Sawal | AND vs OR: Confusion Khatam! ❌
+##### https://youtube.com/shorts/jLH8YhfWH0s
 # How to use Git files
 1. Open the MySQL Workbench platform.
 2. Click the '+SQL' tab (top of the menu bar) to add a new file.
