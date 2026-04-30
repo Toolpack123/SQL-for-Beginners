@@ -13,19 +13,19 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/6GoIAB4ldD0?feature=share
 #### Part 3, SQL में Row Entry करने का सही तरीका!|INSERT INTO|
 ##### https://youtube.com/shorts/l8md0xItLVA?feature=share
-#### Part4 , हज़ारों में से काम का Data कैसे ढूँढें? 🔍 | WHERE Clause
+#### Part 4 , हज़ारों में से काम का Data कैसे ढूँढें? 🔍 | WHERE Clause
 ##### https://youtube.com/shorts/UyLNgAfna5Q?feature=share
 #### Part 5 , Specific column को Filter करना सीखें!
 ##### https://youtube.com/shorts/4_KVKqpLv7A?feature=share
-#### Part6, SQL Query filtering में गलती? AND Operator सीखो!
+#### Part 6, SQL Query filtering में गलती? AND Operator सीखो!
 ##### https://youtube.com/shorts/pScDqIPBRO8?feature=share
-#### Part7, Coding Interview Ka Sabse Easy Sawal | AND vs OR: Confusion Khatam! ❌
+#### Part 7, Coding Interview Ka Sabse Easy Sawal | AND vs OR: Confusion Khatam! ❌
 ##### https://youtube.com/shorts/jLH8YhfWH0s
-#### Part8, Coding Interview ka twist! Instagram ka database, Part 8? Interview 
+#### Part 8, Coding Interview ka twist! Instagram ka database, Part 8? Interview 
 ##### https://youtube.com/shorts/dk4-rn9JaK0
-#### Part9, SQL ki ye ek galti aur career khatam! 😱TRUNCATE vs DELETE, CONCEPT VIDEO
+#### Part 9, SQL ki ye ek galti aur career khatam! 😱TRUNCATE vs DELETE, CONCEPT VIDEO
 ##### https://youtube.com/shorts/-UF4xUwhdLw
-#### Part9, Amazon data kaise delete karta hai? DELETE vs TRUNCATE, CODE VIDEO
+#### Part 9, Amazon data kaise delete karta hai? DELETE vs TRUNCATE, CODE VIDEO
 ##### https://youtube.com/shorts/4o1o8fBrRZc
 # How to use Git files
 1. Open the MySQL Workbench platform.
