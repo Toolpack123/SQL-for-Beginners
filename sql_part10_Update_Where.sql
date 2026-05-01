@@ -14,7 +14,7 @@ select * from users;
 -- Scenario: changed category
 
 UPDATE users 
-SET Category = 'Digital creator'
+SET Category = 'Creator'
 WHERE user_id = 'user1';
 
 -- 4. Verification
