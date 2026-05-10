@@ -27,6 +27,13 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/-UF4xUwhdLw
 #### Part 9, Amazon data kaise delete karta hai? DELETE vs TRUNCATE, CODE VIDEO
 ##### https://youtube.com/shorts/4o1o8fBrRZc
+#### Part 10, Sql Interview ki Important Commands | Part 10, Update + Where
+##### https://youtube.com/shorts/DtnUCgQU_fU
+#### Part 11, The Ultimate Guide to MySQL ALTER Commands | 2026 Edition 
+##### https://youtu.be/xYoAmKKLlXc
+#### Part 12, 🛑 Stop Struggling with SQL Filtersl Master Wildcard(%)
+##### https://youtube.com/shorts/VijkoAZfbSQ
+
 # How to use Git files
 1. Open the MySQL Workbench platform.
 2. Click the '+SQL' tab (top of the menu bar) to add a new file.
