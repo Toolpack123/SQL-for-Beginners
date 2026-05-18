@@ -27,12 +27,22 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/-UF4xUwhdLw
 #### Part 9, Amazon data kaise delete karta hai? DELETE vs TRUNCATE, CODE VIDEO
 ##### https://youtube.com/shorts/4o1o8fBrRZc
-#### Part 10, Sql Interview ki Important Commands | Part 10, Update + Where
+#### Part 10, SQL Interview ki Important Commands | Part 10, Update + Where
 ##### https://youtube.com/shorts/DtnUCgQU_fU
 #### Part 11, The Ultimate Guide to MySQL ALTER Commands | 2026 Edition 
 ##### https://youtu.be/xYoAmKKLlXc
 #### Part 12, 🛑 Stop Struggling with SQL Filtersl Master Wildcard(%)
 ##### https://youtube.com/shorts/VijkoAZfbSQ
+#### Part 13, MySQL ORDER BY LIMIT CLAUSE |Filter Dataset Part 13
+##### https://youtube.com/shorts/W1r3PTv8NOY
+#### Part 14, MySQL COUNT(*) vs COUNT(Col) | Total Rows vs. Non-NULL Data
+##### https://youtube.com/shorts/8crcrS9iA_U
+#### Part 15, SQL: Group By + Count(*) in 60 Seconds! 
+##### https://youtube.com/shorts/H-tYHYxTAIo
+#### Part 16, SQL GROUP BY: Should you use WHERE or HAVING?
+##### https://youtube.com/shorts/2S7bgTjh5rg
+#### SQL Aggregations &Grouping Masterclass | Part 5
+##### https://youtu.be/d1yS-pMCaK8
 
 # How to use Git files
 1. Open the MySQL Workbench platform.
