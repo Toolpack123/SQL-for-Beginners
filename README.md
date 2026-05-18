@@ -41,6 +41,8 @@ This repository contains the SQL scripts used in my YouTube Short tutorial "SQL-
 ##### https://youtube.com/shorts/H-tYHYxTAIo
 #### Part 16, SQL GROUP BY: Should you use WHERE or HAVING?
 ##### https://youtube.com/shorts/2S7bgTjh5rg
+#### Part 1: SQL Fundamentals | Create Database, Tables & Filter Data MasterClas
+##### https://youtu.be/0x9bS5uKBSQ
 #### SQL Aggregations &Grouping Masterclass | Part 5
 ##### https://youtu.be/d1yS-pMCaK8
 
